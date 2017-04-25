@@ -1,5 +1,5 @@
-# React Boilerplate App v2
-React Boilerplate application.
+# React Timer App
+React Timer application.
 Contains:
 SASS
 Foundation
