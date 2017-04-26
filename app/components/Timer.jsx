@@ -55,7 +55,7 @@ class Timer extends React.Component {
 
         return (
             <div>
-                <h1 className="page-title"></h1>
+                <h1 className="page-title">Timer App</h1>
                 <Clock totalSeconds={count} />
                 <Controls countdownStatus={timerStatus} onStatusChange={this.handleStatusChange} />
             </div>
