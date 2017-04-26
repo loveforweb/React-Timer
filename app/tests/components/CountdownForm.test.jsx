@@ -6,7 +6,7 @@ import TestUtils from 'react-addons-test-utils';
 
 import CountdownForm from 'CountdownForm';
 
-describe('Coundown Form', () => {
+describe('Countdown Form', () => {
     it('should exist', () => {
         expect(CountdownForm).toExist();
     });
