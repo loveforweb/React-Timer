@@ -21,7 +21,7 @@ class Clock extends React.Component {
     }
 
     render() {
-        let { totalSeconds } = this.props;
+        const { totalSeconds } = this.props;
         return (
             <div className="clock">
                 <span className="clock-text">
